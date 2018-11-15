@@ -128,7 +128,7 @@ a:active {
 }
 
 #intro .container .block .section-title {
-  background-color: #000;
+  background-color: rgba(24, 24, 24, 0.815);
   padding: 25px;
   padding-top: 0px;
 }
@@ -948,3 +948,12 @@ footer>.container {
   margin-block-start: 20px;
 }
 
+#foto1 {
+	position: absolute;
+	z-index: 1;
+	top: 1px;
+	position: relative;
+	margin: -5px auto;
+	width: 100%;
+	padding: 1rem;
+}
