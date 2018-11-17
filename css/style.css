@@ -119,11 +119,7 @@ a:active {
 --*/
 #intro {
   padding: 100px 0;
-<<<<<<< HEAD
   background-image: url(http://edu4.me/wp-content/uploads/2016/12/dic1.jpg);
-=======
-  background-image: url(https://i.pinimg.com/originals/9b/c9/8f/9bc98f55db5737c6b9601ea215f14467.jpg);
->>>>>>> ac179d78bd16083d320dcc3984b9ec96ee23f3f9
   background-color: #000000;
   background-size: cover;
   background-attachment: fixed;
@@ -131,7 +127,6 @@ a:active {
   position: relative;
 }
 
-<<<<<<< HEAD
 #intro:before {
   content: "";
   position: absolute;
@@ -147,10 +142,6 @@ a:active {
 
 #intro .container .block .section-title {
   background-color: rgba(0, 0, 0, 0.473);
-=======
-#intro .container .block .section-title {
-  background-color: rgba(24, 24, 24, 0.815);
->>>>>>> ac179d78bd16083d320dcc3984b9ec96ee23f3f9
   padding: 25px;
   padding-top: 0px;
 }
@@ -945,7 +936,6 @@ footer>.container {
 }
 
 #foto1 {
-<<<<<<< HEAD
   position: absolute;
   z-index: 1;
   top: 1px;
@@ -953,13 +943,4 @@ footer>.container {
   margin: -5px auto;
   width: 100%;
   padding: 1rem;
-=======
-	position: absolute;
-	z-index: 1;
-	top: 1px;
-	position: relative;
-	margin: -5px auto;
-	width: 100%;
-	padding: 1rem;
->>>>>>> ac179d78bd16083d320dcc3984b9ec96ee23f3f9
 }
