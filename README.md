@@ -1,4 +1,3 @@
-plate-box
-=========
+UNIVERSIDAD DE SOTAVENTO A.C
 
-HTML5 boiler plat with bootstrap support and fontawesome support... Included semantic HTML :P
+PROYECTO WEB
