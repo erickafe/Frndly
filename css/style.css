@@ -72,6 +72,7 @@ a:active {
   font-size: 25px;
   color: rgb(207, 206, 206);
 }
+
 /*---------------------------------------------
 					Index Start 
 -----------------------------------------------*/
@@ -336,4 +337,12 @@ footer>.container {
 
 .navbar-nav .dropdown-menu {
   font-size: 18px;
+}
+
+/*-------------ARCHIVOS DE DESCARGA--------------------*/
+
+img#previa {
+  width: 50px;
+  height: 520px;
+  margin: 10px 10px 0 0;
 }
